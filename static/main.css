@@ -1,0 +1,22 @@
+.txt-blanco{
+    color: #ffffff !important;
+}
+.titulo{
+    font-family: 'Cabin Sketch', cursive;
+}
+.tarea_hecha {
+    text-decoration: line-through;
+    color: #ffffff;
+}
+.Casa {
+    background-color: #F9E79F    !important; <!-- secondary light-->
+}
+.Trabajo {
+    background-color:#AED6F1 !important; <!-- info light-->
+}
+.Escuela {
+    background-color:#F1948A !important; <!-- warning light-->
+}
+.Otro {
+    background-color:#BB8FCE  !important; <!-- warning light-->
+}
