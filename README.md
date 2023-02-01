@@ -1,5 +1,9 @@
 # Flask-Gestor-de-tareas
-Gestor de tareas con Python usando Flask + SQLAlchemy
+Gestor de tareas con Python usando el framework Flask + SQLite como Base de datos (ORM SQLAlchemy).
+Interfaz en Flask desede la cual:
+- Agrega objetos a la base de datos
+- Modifica objetos de la base de datos 
+- Elimina objetos de la base de datos
 
 ## Requisitos
 Python 3.x
